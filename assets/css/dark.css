@@ -1,0 +1,24 @@
+:root {
+
+	--section-1-bg-color: #020312;
+	--section-2-bg-color: #020312;
+    --white-color: #fff;
+    --black-color: #191919;
+}
+.dark section{
+    padding-top: 0px;
+}
+.dark .form-control{
+    background-color:transparent;
+}
+.dark .pricing__header .plan__name {
+    background: #f1f0f0;
+    color: var(--black-color);
+}
+.dark .services__box ,.experience__box, .pricing__box {
+background-color: #07081f;
+}
+.dark .section__title h2, .about__info h6, .about__info h4, .skills__box h4, .about__info p, .services__box h4 , .services__box p , .counter__box h2 , .counter__box p , .experience__box p , .pricing__header h2, .pricing__header span , .pricing__body p , .client__info p , .client__des p , .footer__text p , .dark .sticky .menu li a, .sticky .logo h2 ,.navbar .menu li a, .header__area__box h4, .header__area__box h2, .header__social__icon a i, .sticky .menu-btn i, .menu-btn i {
+    color: var(--white-color);
+}
+

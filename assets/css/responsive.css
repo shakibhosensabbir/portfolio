@@ -1,0 +1,33 @@
+@media only screen and (min-width: 1600px){
+    .header__area__box p{
+        margin: 0px 100px !important;
+   }
+}
+@media screen {
+}
+/* Normal desktop :1200px. */
+@media (max-width: 1199px) {
+
+}
+/* Normal desktop :992px. */
+@media (max-width: 992px) {
+    .about__box {
+        margin-left: 0 !important;
+    }
+}
+/* small mobile :320px. */
+@media (max-width: 767px) {
+   
+}
+/* Large Mobile :479px. */
+@media (max-width: 479px) {
+
+}
+/* Large Mobile :375px. */
+@media(max-width: 375px) {
+  
+}
+/* Large Mobile :320px. */
+@media(max-width: 320px) {
+ 
+}
